@@ -1,5 +1,5 @@
 #### What is Markdown and how do we use it to create web-pages?
-Held at the Fawkes Training Room on 5th November from 13:00 to 17:00  
+Held at the CRAIK Marshall Building, Downing College, UoC on 5th July 2019.  
 <a name="TheTop"></a>
 ### Trainers
 Ash.    
